@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Student Internship**
 
-- 👨‍💻 All of my projects are available at [https://sahilgreatsite.my.canva.site/httpsahilgreatsite#testimonials](https://sahilgreatsite.my.canva.site/httpsahilgreatsite#testimonials)
+- 👨‍💻 All of my projects are available at [https://sahilgreatsite.my.canva.site/httpsahilgreatsite#testimonials]([https://sahilgreatsite.my.canva.site/httpsahilgreatsite#testimonials](https://sahilgreatsite.my.canva.site/sahil))
 
 - 💬 Ask me about **Data Science,Machine Learning**
 
